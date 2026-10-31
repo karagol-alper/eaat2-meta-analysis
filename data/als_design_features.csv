@@ -1,0 +1,13 @@
+study_id,randomisation_reported,litter_copynumber_sex_controlled,blinded_outcome_assessment,sample_size_justified,treatment_post_onset,exact_n_reported,multi_site,notes
+GURN1996,not_determinable,not_determinable,not_determinable,not_determinable,no,no,no,"Treatment from 45-50 days, well before symptom onset. Design details not determinable from retrieved records."
+GUO2003,not_applicable,not_determinable,not_determinable,not_determinable,not_applicable,no,no,"Genetic cross rather than drug allocation; randomisation not applicable. Comparator is single- vs double-transgenic littermates."
+WAIB2004,not_determinable,not_determinable,not_determinable,not_determinable,not_determinable,no,no,"Monotherapy arm of a combination study."
+ROTH2005,not_determinable,not_determinable,not_determinable,not_determinable,no,no,no,"Originating discovery study. Treatment initiated pre-symptomatically."
+SCOTT2008,yes,yes,not_determinable,yes,no,yes,no,"Explicitly controlled litter, transgene copy number and sex; a priori power analysis is the paper's central methodological contribution."
+LI2013,not_determinable,not_determinable,not_determinable,not_determinable,no,yes,no,"Treatment from 6 weeks, pre-onset. n = 23 vs 22 reported."
+JABL2014,not_determinable,not_determinable,not_determinable,not_determinable,not_determinable,yes,no,"n = 25 per group reported."
+BENK2016,not_determinable,not_determinable,not_determinable,not_determinable,not_determinable,no,no,
+HOGG2018_SOD1,not_determinable,yes,not_determinable,not_determinable,yes,no,no,"Litter-, sex- and age-matched cohorts; treatment initiated at symptom onset."
+HOGG2018_TDP,not_determinable,yes,not_determinable,not_determinable,yes,no,no,"Litter-, sex- and age-matched cohorts; treatment initiated at symptom onset."
+HOGG2018_FUS,not_determinable,yes,not_determinable,not_determinable,yes,no,no,"Litter-, sex- and age-matched cohorts; treatment initiated at symptom onset."
+CHEN2020,not_determinable,not_determinable,not_determinable,not_determinable,not_determinable,no,no,

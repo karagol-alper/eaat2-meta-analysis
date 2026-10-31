@@ -1,0 +1,13 @@
+study_id,first_author,year,agent,agent_class,mechanism_route,model,species,n_treat,n_ctrl,n_source,delta_days,delta_source,ctrl_mean_days,sig_positive,lab_independent_of_originator,provenance_tier,notes
+ROTH2005,Rothstein,2005,Ceftriaxone,beta_lactam,pharmacological,SOD1-G93A,mouse,,,imputed,10.0,reported_magnitude,128,1,0,B,"Originating discovery study; +10 d survival reported. Group sizes not retrieved from full text."
+GURN1996,Gurney,1996,Riluzole,riluzole,pharmacological,SOD1-G93A,mouse,,,imputed,12.5,secondary_range_10_15,128,1,0,B,"Originating positive study; 10-15 d range reported in secondary literature. Did not delay onset."
+WAIB2004,Waibel,2004,Riluzole,riluzole,pharmacological,SOD1-G93A,mouse,,,imputed,6.0,inferred_monotherapy_arm,128,1,1,C,"Riluzole monotherapy arm of rasagiline combination study; combination gave ~20% extension. Monotherapy magnitude uncertain - Tier C."
+GUO2003,Guo,2003,EAAT2 transgene,genetic,genetic_overexpression,SOD1-G93A x EAAT2 tg,mouse,,,imputed,0.0,explicit_null,128,0,1,A,"Genetic target-validation control. Delayed grip-strength decline and motor neuron loss; NO effect on lifespan, paralysis onset or weight decline."
+SCOTT2008,Scott,2008,Riluzole,riluzole,pharmacological,SOD1-G93A,mouse,,,imputed,0.0,explicit_null,128,0,1,A,"ALS-TDI high-powered reanalysis; riluzole showed no survival benefit once litter/copy-number/sex controlled."
+LI2013,Li,2013,Riluzole,riluzole,pharmacological,SOD1-G93A,mouse,23,22,reported_exact,0.0,explicit_null,128,0,1,A,"8 mg/kg/day from 6 wk. No difference in clinical onset or survival; EIM/CMAP/MUNE all null."
+JABL2014,Jablonski,2014,Riluzole,riluzole,pharmacological,SOD1-G93A,mouse,25,25,reported_exact,0.0,explicit_null,128,0,1,A,"Riluzole alone not beneficial; only riluzole+elacridar (efflux inhibitor) extended survival."
+HOGG2018_SOD1,Hogg,2018,Riluzole,riluzole,pharmacological,SOD1-G93A,mouse,,,imputed,0.0,explicit_null,128,0,1,A,"22 mg/kg from symptom onset; litter/sex/age matched. No lifespan benefit."
+HOGG2018_TDP,Hogg,2018,Riluzole,riluzole,pharmacological,TDP-43-A315T,mouse,,,imputed,0.0,explicit_null,154,0,1,A,"No lifespan benefit."
+HOGG2018_FUS,Hogg,2018,Riluzole,riluzole,pharmacological,FUS(1-359),mouse,,,imputed,0.0,explicit_null,120,0,1,A,"No lifespan benefit; no rotarod/stride benefit."
+CHEN2020,Chen,2020,Riluzole,riluzole,pharmacological,TDP-43 tg rat,rat,,,imputed,0.0,explicit_null,120,0,1,A,"No therapeutic efficacy on transgenic TDP-43 rat model."
+BENK2016,Benkler,2016,LV-EAAT2 (alone),genetic,genetic_overexpression,SOD1-G93A,mouse,,,imputed,0.0,explicit_null,128,0,1,A,"EAAT2 lentivirus alone did not prolong survival; only the EAAT2+GDH2+NRF2 triple cocktail did (+19-22 d)."

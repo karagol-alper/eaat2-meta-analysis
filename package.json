@@ -1,0 +1,8 @@
+{
+  "name": "eaat2-meta-analysis",
+  "version": "1.0.0",
+  "description": "Manuscript build for the EAAT2 up-regulator preclinical meta-analysis",
+  "private": true,
+  "scripts": { "build": "node src/build_manuscript.js" },
+  "dependencies": { "docx": "^9.8.1" }
+}
